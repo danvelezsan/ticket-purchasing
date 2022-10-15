@@ -1,0 +1,16 @@
+[
+    {
+    "id": 1,
+    "name": "Concert", 
+    "datetime": "2022-11-08T23:53:47-05:00", 
+    "city": "Medellin", 
+    "location": "Theater 1",
+    "ticketPrice": 5.50,
+    "serviceFee": 2.20,
+    "remainingTickets": 20,
+    "delivery": {
+        "name": "PDF",
+        "description": "Sent as a pdf file"
+    }
+    }
+]

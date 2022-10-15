@@ -1,0 +1,64 @@
+{
+  "appName": "Flow OS",
+  "common": {
+    "error": "There's been an internal error"
+  },
+  "dashboardPage": {
+    "helloWorld": "Hello World!"
+  },
+  "loginPage": {
+    "login": "Login"
+  },
+  "mainMenu": {
+    "account": "Account",
+    "logout": "Log out",
+    "privacyPolicy": "Privacy Policy",
+    "menuItem1": "Menu Item 1",
+    "menuItem2": "Menu Item 2"
+  },
+  "notFoundPage": {
+    "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable."
+  },
+  "services": {
+    "security": {
+      "login": "User Login"
+    }
+  },
+  "shows":{
+    "showsList": {
+      "title": "SHOWS",
+      "button": "Find Tickets"
+    },
+    "selectTickets": {
+      "fees": "+ Fees",
+      "ticketsAvaliable": "Tickets avaliable by",
+      "subtotal": "Subtotal",
+      "nextButton": "Next",
+      "multipleSeatInfo": "Your seat number will be provided after purchase. Buying multiple seats? Your seats will be together"
+    },
+    "payTickets": {
+      "delivery": "Delivery",
+      "ticketsAvaliable": "Tickets avaliable by",
+      "useCard": "Use Credit / Debit Card",
+      "editCard": "Edit",
+      "deleteCard": "Delete",
+      "addCard": "Add New Card",
+      "total": "Total",
+      "tickets": "Tickets",
+      "fees": "Fees",
+      "serviceFee": "Service Fee: $",
+      "orderProcessingFee": "Order Processing Fee",
+      "free": "Free",
+      "cancelOrder": "Cancel Order",
+      "finalWarning": "*All Sales Final - No Refunds",
+      "button": "Place Order",
+      "creditCardNeeded": "Please add a credit card",
+      "purchaseSuccess": "Tickets successfully purchased",
+      "payment": "Payment"
+    },
+    "cardModal": {
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    }
+  }
+}

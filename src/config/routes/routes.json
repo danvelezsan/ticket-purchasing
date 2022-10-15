@@ -1,0 +1,14 @@
+{
+    "home": {
+        "component": "DashBoard",
+        "name": "Dashboard",
+        "url": "/dashboard",
+        "permissions": ["Dashboard"]
+    },
+    "login": {
+        "component": "Login",
+        "name": "Login",
+        "url": "/login",
+        "permissions": []
+    }
+}

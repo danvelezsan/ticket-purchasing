@@ -1,0 +1,24 @@
+{
+  "localStorage": {
+    "device": "localStorage",
+    "isEnabled": true,
+    "key": "state",
+    "savableState": [
+      "user"
+    ],
+    "throttleWait": 1000
+  },
+  "reduxLogger": {
+    "isEnabled": true
+  },
+  "serviceMocker": {
+    "delayResponse": 300,
+    "isEnabled": true,
+    "loginPassword": "123",
+    "name": "User",
+    "loginUserName": "user@test.com"
+  },
+  "alertNotification": {
+    "autoHideDuration": 5000
+  }
+}

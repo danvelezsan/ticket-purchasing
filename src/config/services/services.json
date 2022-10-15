@@ -1,0 +1,6 @@
+{
+  "security": {
+    "login": "{security}/login"
+  },
+  "shows": "{api}/shows"
+}

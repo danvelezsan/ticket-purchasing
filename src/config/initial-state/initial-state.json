@@ -1,0 +1,18 @@
+{
+    "alertNotification": {
+        "isVisible": false,
+        "msg": null,
+        "title": null,
+        "type": null
+    },
+    "language": "en",
+    "user": {
+        "account": {
+            "authToken": "",
+            "email": "",
+            "id": "",
+            "name": "",
+            "permissions": ["Dashboard"]
+        }
+    }
+}
