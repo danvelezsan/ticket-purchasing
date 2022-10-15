@@ -1,4 +1,4 @@
-export default theme => ({
+export default ({
     title: {
         fontWeight: '500',
         marginBottom: '20px'

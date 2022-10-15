@@ -22,7 +22,6 @@ import { config } from '../../../config';
 
 const texts = config.text;
 const CardPopUp = ({
-    classes,
     creditCards,
     openCardPopUp,
     selectedCard,
@@ -190,7 +189,6 @@ const CardPopUp = ({
 };
 
 CardPopUp.propTypes = {
-    classes: PropTypes.object.isRequired,
     creditCards: PropTypes.array.isRequired,
     openCardPopUp: PropTypes.bool.isRequired,
     selectedCard: PropTypes.object,
